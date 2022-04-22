@@ -11,8 +11,5 @@
       <li>Vulnerability Testing</li>
       <li>Eat Burgers</li>
     </ul>
-    <br>
-    <br>
-    <p>I also work for Retia</p>
   </body>
 </html>

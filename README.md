@@ -7,7 +7,7 @@
     <p font-family="Terminal";>I do cool stuff like: </p>
     <ul>
       <li>Program Python</li>
-      <li>Program C</li>
+      <li>Program C++</li>
       <li>Vulnerability Testing</li>
       <li>Eat Burgers</li>
     </ul>

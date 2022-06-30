@@ -15,7 +15,6 @@
     <a href="mailto://nullusxr@tuta.io" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/NullUsxr/NullUsxr/main/64x64/gmail_64x64.png" alt="Mail"></a>
     <a href="https://www.twitter.com/NullUsxr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/NullUsxr/NullUsxr/main/64x64/twitter_64x64.png" alt="Twitter"></a>
     <a href="https://www.reddit.com/user/NulledUsxr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/NullUsxr/NullUsxr/main/64x64/reddit_64x64.png" alt="Reddit"></a>
-    <a href="https://www.twitch.tv/Nullusxr" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/NullUsxr/NullUsxr/main/64x64/twitch_64x64.png" alt="Twitch"></a>
     <a href="https://www.youtube.com/channel/UC1h77PVFe-kVs13DWx6-h3w" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/NullUsxr/NullUsxr/main/64x64/youtube_64x64.png" alt="YouTube"></a>
   </body>
 </html>
